@@ -1,4 +1,5 @@
 # pw-fundamentos-react
-Fundamentos de React - Parte 01
+
+Sequência de aulas sobre fundamentos do React JS
 
 Autor: Vítor
